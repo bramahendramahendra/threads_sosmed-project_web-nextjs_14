@@ -75,3 +75,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 2. build apps user management with clerk
 3. create file .env.local and copas key clerk
 
+## Mengubah warna thema profile Clerk
+1. jika anda ingin mengubah warna tema profile clerk dari putih ke hitam jalankan  
+```bash
+npm install @clerk/themes
+```
+
