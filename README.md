@@ -113,9 +113,13 @@ Write configuration to components.json. Proceed? ... {yes}
 ```bash
 npx shadcn-ui@latest add form
 ```
-7. jika componennts "@/components/ui/input" belum terinstall anda dapat menginstallnya terlebih dahulu
+7. jika components "@/components/ui/input" belum terinstall anda dapat menginstallnya terlebih dahulu
 ```bash
 npx shadcn-ui@latest add input
+```
+8. jika components "@/components/ui/textarea" belum terinstall anda dapat menginstallnya terlebih dahulu
+```bash
+npx shadcn-ui@latest add textarea
 ```
 
  
