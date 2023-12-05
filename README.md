@@ -81,3 +81,41 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 npm install @clerk/themes
 ```
 
+## install https://ui.shadcn.com/
+
+digunakan untuk UI form reference pada 
+https://ui.shadcn.com/docs/components/form (referensi form)
+https://ui.shadcn.com/docs/installation/next (referensi install)
+
+cara menggunakan : 
+1.  install 
+```bash
+npx shadcn-ui@latest add form
+```
+2. muncul procced tekan : y
+3. jika muncul pesan 'Configuration is missing. Please run init to create a components.json file.' maka perlu menginstall ini
+4. Run CLI init
+```bash
+npx shadcn-ui@latest init
+```
+5. muncul message pertanyaan perikut:
+Would you like to use TypeScript (recommended)? no / {yes}
+Which style would you like to use? › {Default}
+Which color would you like to use as base color? › {Slate}
+Where is your global CSS file? › › app/globals.css
+Do you want to use CSS variables for colors? › {no} / yes
+Where is your tailwind.config.js located? › tailwind.config.js
+Configure the import alias for components: › @/components
+Configure the import alias for utils: › @/lib/utils
+Are you using React Server Components? › no / {yes}
+Write configuration to components.json. Proceed? ... {yes}
+6. ulangi install form UI
+```bash
+npx shadcn-ui@latest add form
+```
+7. jika componennts "@/components/ui/input" belum terinstall anda dapat menginstallnya terlebih dahulu
+```bash
+npx shadcn-ui@latest add input
+```
+
+ 
