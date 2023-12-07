@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## requirements :
+1. Nextjs 14.0.3
+2. Mongo DB 8.0.2
+3. React 
+4. Tailwind CSS 3.3.0
+
 ## Getting Started
 
 
