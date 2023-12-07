@@ -128,4 +128,12 @@ npx shadcn-ui@latest add input
 npx shadcn-ui@latest add textarea
 ```
 
+## Tutorial MongoDB
+
+1. buka link berikut
+https://www.mongodb.com/ 
+2. start Free dan daftar mongo DB atau login MongoDB
+3. ikuti langkah pada dolumen berikut.
+https://docs.google.com/document/d/1bh2_QUpJQRsVkbVNEv00ZselW_sUG0TMYbpILnB1eOQ/edit?usp=sharing
+
  
