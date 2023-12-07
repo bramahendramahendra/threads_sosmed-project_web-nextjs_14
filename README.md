@@ -136,4 +136,9 @@ https://www.mongodb.com/
 3. ikuti langkah pada dolumen berikut.
 https://docs.google.com/document/d/1bh2_QUpJQRsVkbVNEv00ZselW_sUG0TMYbpILnB1eOQ/edit?usp=sharing
 
+## Tutorial setting Uploadthing
+1. buka link berikut
+https://uploadthing.com/sign-in?redirect_url=https%3A%2F%2Fuploadthing.com%2Fdashboard
+2. ikuti langkan pada dokumen berikut.
+https://docs.google.com/document/d/1QZJ--5NBRdxv-jt8k512MjT15bkJTE_f7hBQsWw9pfE/edit?usp=sharing
  
