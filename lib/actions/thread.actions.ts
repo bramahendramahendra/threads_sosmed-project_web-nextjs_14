@@ -63,7 +63,7 @@ export async function fetchPosts(pageNumber = 1, pageSize = 20) {
         return { posts, isNext }
 }
 
-export async function fetchThreadById(pid: string) {
+export async function fetchThreadById(id: string) {
     connectToDB();
 
     try {
