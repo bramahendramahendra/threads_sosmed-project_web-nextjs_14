@@ -127,6 +127,11 @@ npx shadcn-ui@latest add input
 ```bash
 npx shadcn-ui@latest add textarea
 ```
+9. jika components "@/components/ui/tabs" belum terinstall anda dapat menginstallnya terlebih dahulu
+```bash
+npx shadcn-ui@latest add tabs
+```
+
 
 ## Tutorial MongoDB
 
